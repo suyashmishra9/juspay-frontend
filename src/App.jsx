@@ -6,9 +6,10 @@ function App() {
 
   return (
     <>
-      <div>
-        <h1>React</h1>
-      </div>
+      <h1 class="text-3xl font-bold underline text-blue-600">
+  Tailwind Test
+</h1>
+
     </>
   )
 }
